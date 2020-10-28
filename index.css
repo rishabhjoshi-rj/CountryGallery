@@ -1,0 +1,58 @@
+
+#img2{
+    width:100%;
+    
+    /* margin-top :20px; */
+    
+    /* padding-left: 80%; */
+}
+h1
+{
+    text-align:center;
+}
+.card {
+    padding:0;
+    border: 1px solid gray;
+    /* margin: 20px; */
+    border-width: 20px;
+    border-color: rgba(106, 228, 236, 0.932);
+   }  
+  html, body {
+      padding:2rem;
+
+    overflow-x: hidden;
+}
+
+  h2{
+    text-align: center;
+}
+
+  h1{
+      font-size: 1.5rem;
+      font-weight : 300px;
+    text-align : left;
+    color: black;
+  }
+#imgs {
+       
+    margin-left: auto;
+   
+   
+   width: 60px;
+   height: 8vh;
+   
+}
+/* #imgs{
+    align-content: right;
+    width:60px;
+    height:8vh;
+} */
+
+ /* #root {
+   width: 1400px;
+   margin-left: 50px;
+  }  */
+ /* .container {
+    display: flex;
+    flex-wrap: wrap;
+  } */
